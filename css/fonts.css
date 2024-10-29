@@ -1,0 +1,36 @@
+/* Press Start 2P */
+@font-face {
+  font-family: 'Press Start 2P';
+  src: url('../fonts/PressStart2P-Regular.ttf');
+}
+
+/* Yellowtail
+@font-face {
+  font-family: 'yellowtail';
+  src: url('../fonts/Yellowtail-Regular.ttf');
+}
+
+/* Fondamento
+@font-face {
+  font-family: 'fondamento';
+  src: url('../fonts/fondamento-regular-webfont.woff');
+}
+
+/* bold font example
+@font-face {
+  font-family: 'font_name';
+  src: url('../fonts/font_name-bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+*/
+
+/* woff and woff2 font formats
+@font-face {
+  font-family: 'font_name';
+  src: url('../fonts/font_name-regular.woff2') format('woff2'),
+       url('../fonts/font_name-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+*/
